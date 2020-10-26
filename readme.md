@@ -2,7 +2,7 @@
 ## intro.md
 => What does it do  <br/>
 => Alternatives  <br/>
-> -- Easy Charts <br/>
+&nbsp; -- Easy Charts <br/>
  -- Graph Visualizations  <br/>
  -- Geomapping  <br/>
  -- programming from scratch  <br/>
