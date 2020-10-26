@@ -1,11 +1,11 @@
-### <Head/> What does it do
+### What does it do
 - Loading data into the browser's memory
 - Binding data to elements within the document, creating new elements as needed
 - Transforming those elements by interpreting each element's bound datum and setting its visual properties accordingly
 - Transitioning elements between states in response to user input
 
-### <Head/> Alternatives
-#### ++ Easy Charts ++
+### Alternatives
+#### Easy Charts
 Data Wrapper
 Flot
 Google Chart Tools
@@ -13,31 +13,31 @@ Highcharts
 Peity
 Timeline.js
 
-#### <Head/> ++ Graph Visualizations ++
+#### Graph Visualizations
 Arbor.js
 Cytoscape.js
 Sigma.js
 
-#### ++ Geomapping ++
+#### Geomapping
 Kartograph
 Leaflet
 Modest Maps
 Polymaps
 
-#### ++ programming from scratch ++
+#### programming from scratch
 p5.js
 Paper.js
 Raphael
 Snap.svg
 Two.js
 
-#### ++ Three-Dimensional ++
+#### Three-Dimensional
 ==> D3 is not the best at a 3D, simply because web browsers are historically two-dimensional beasts. 
 But with increased support for WebGL, there are now more opportunities for 3D web experiences 
 PhiloGL
 Three.js
 
-#### ++ Tools Built with D3 ++
+#### Tools Built with D3
 ==> General
 Britecharts
 C3.js
@@ -51,7 +51,7 @@ dc.js
 Firespray
  : Super-fast charting library for streaming data (Think high-density real-time data dashboards)
 
-### <Head/> CSS Rules
+### CSS Rules
 1) Selector matches cascade from the top down
 Many style properties are inherited by an element's descendants unless otherwise specified.
 
@@ -90,8 +90,8 @@ p.highlight {
 
 3) If two selectors have the same specificity, then the later one will be applied
 
-### <Head/> JavaScript variable
-1) Arrays
+### JavaScript variable
+#### 1) Arrays
  an array is a sequence of values, conveniently stored in a single variable
  keeping track of related values in separate variables is inefficient
  ```javascript
@@ -112,7 +112,7 @@ Very useful in data visualization, so you will becoome very comfortable with the
 numbers[2] // returns 15
 ```
 
-2) Objects
+#### 2) Objects
 Arrays are great for simple lists of values, but with more complex datasets, you will want to put your data into an object.
 We include properties and values. A colon : separates each property and its value, and a comma separates each property / value pair
 ```javascript
@@ -131,7 +131,7 @@ fruit.kind // returns "grape"
 fruit.tasky // returns true
 ```
 
-3) Objects and Arrays
+#### 3) Objects and Arrays
 You can combine these two structures to create arrays of objects, or objects of arrays
 We use hard brackets [] on the outside, to indicate an array, followed by curly brackets {} and object notation on the inside, with each object separated by a comma
 ```javascript
@@ -159,7 +159,7 @@ fruits[0].quantity // 12
 fruits[0].tasty // true
 ```
 
-4) JSON
+#### 4) JSON
 JSON, JavaScript Object Notation, is basically a  specific syntax for organizing data as JavaScript objects
 ```javascript
 {
@@ -182,7 +182,7 @@ const jsonFruit = {
 }
 ```
 
-5) GeoJSON
+#### 5) GeoJSON
 Just as JSON is just a formalization of existing JavaScript object syntax, GeoJSON objects are JSON objects, and all JSON objects are JavaScript objects.
 GeoJSON can store points in geographical space (typically as longitude/latitude coordinates), but also shapes (such as lines and polygons) and other spatial features.
 If you have a lot of geodata, it's worth it to parse it into GeoJSON format for best use with D3

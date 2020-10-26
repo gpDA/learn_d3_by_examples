@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9aea62ac-f9cc-4c44-849c-1ccd2399e429" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table of Contents/Further Study/toStudy.md" beforeDir="false" afterPath="$PROJECT_DIR$/Further Study/toStudy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table of Contents/Intro to D3/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/Intro to D3/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table of Contents/Resources/resources.md" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/resources.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +28,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -51,7 +60,7 @@
       <workItem from="1603419428574" duration="598000" />
       <workItem from="1603462854476" duration="29000" />
       <workItem from="1603462898510" duration="1905000" />
-      <workItem from="1603568235357" duration="3538000" />
+      <workItem from="1603568235357" duration="4301000" />
     </task>
     <servers />
   </component>
