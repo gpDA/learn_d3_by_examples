@@ -3,7 +3,7 @@
 => What does it do
 
 => Alternatives
- -- Easy Charts
+ -- Easy Charts <br/>
  -- Graph Visualizations
  -- Geomapping
  -- programming from scratch
