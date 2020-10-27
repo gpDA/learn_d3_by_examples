@@ -3,7 +3,7 @@
 -- What does it do  <br/>
 -- Talk about how to test on VS Code / CDN  <br/>
 -- Alternatives  <br/>
-&nbsp;&nbsp; -- Easy Charts <br/>
+&nbsp;&nbsp; +-- Easy Charts <br/>
 &nbsp;&nbsp; -- Graph Visualizations  <br/>
 &nbsp;&nbsp; -- Geomapping  <br/>
 &nbsp;&nbsp; -- programming from scratch  <br/>
