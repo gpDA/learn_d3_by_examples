@@ -1,1 +1,2 @@
 - Why CSS is cascading
+- SVG scaling (https://css-tricks.com/scale-svg/)

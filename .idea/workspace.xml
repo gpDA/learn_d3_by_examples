@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9aea62ac-f9cc-4c44-849c-1ccd2399e429" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Further Study/toStudy.md" beforeDir="false" afterPath="$PROJECT_DIR$/Further Study/toStudy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intro to D3/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/Intro to D3/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/resources.md" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/resources.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +15,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1jG8s1xDIYEUTNRO82Y92gnqyzS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -57,7 +61,7 @@
       <workItem from="1603419428574" duration="598000" />
       <workItem from="1603462854476" duration="29000" />
       <workItem from="1603462898510" duration="1905000" />
-      <workItem from="1603568235357" duration="4502000" />
+      <workItem from="1603568235357" duration="11508000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1603685244338</created>
@@ -80,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603685397899</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test br">
+      <created>1603685438764</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603685438764</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,19 +104,23 @@
     <option name="LAST_COMMIT_MESSAGE" value="test br" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="296" y="31" key="CommitChangelistDialog2" timestamp="1603685397739">
+    <state x="296" y="31" key="CommitChangelistDialog2" timestamp="1603685438635">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state x="296" y="31" key="CommitChangelistDialog2/0.23.1440.812/-764.-745.1360.745/596.-1057.1920.1057@0.23.1440.812" timestamp="1603685397739" />
+    <state x="296" y="31" key="CommitChangelistDialog2/0.23.1440.812/-764.-745.1360.745/596.-1057.1920.1057@0.23.1440.812" timestamp="1603685438635" />
     <state x="352" y="48" key="SettingsEditor" timestamp="1603462950024">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="1180" y="-890" key="SettingsEditor/0.23.1440.812/-649.-745.1360.745/711.-1057.1920.1057@711.-1057.1920.1057" timestamp="1603419412474" />
     <state x="352" y="48" key="SettingsEditor/0.23.1440.812/1440.23.1360.745@0.23.1440.812" timestamp="1603462950024" />
     <state x="1772" y="46" key="SettingsEditor/0.23.1440.812/1440.23.1360.745@1440.23.1360.745" timestamp="1603462870418" />
-    <state x="320" y="157" key="Vcs.Push.Dialog.v2" timestamp="1603685398971">
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2" timestamp="1603685440062">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.23.1440.812/-764.-745.1360.745/596.-1057.1920.1057@0.23.1440.812" timestamp="1603685398971" />
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.23.1440.812/-764.-745.1360.745/596.-1057.1920.1057@0.23.1440.812" timestamp="1603685440062" />
+    <state x="509" y="353" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603685683656">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="509" y="353" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.812/-764.-745.1360.745/596.-1057.1920.1057@0.23.1440.812" timestamp="1603685683656" />
   </component>
 </project>
