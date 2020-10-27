@@ -1,4 +1,4 @@
-# Intro to D3
+# D3
 ## intro.md
 -- What does it do  <br/>
 -- Talk about how to test on VS Code / CDN  <br/>
@@ -37,5 +37,6 @@
 &nbsp;&nbsp; -- layering and drawing order <br/>
 -- SVG browser compatibility  <br/>
 
+## drawing_with_data.md
 
  
